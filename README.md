@@ -1,6 +1,2 @@
 # explore-github-YSPM
-
-
-
-
-Rohit
+I am a Student of Yashoda Technical campus satara
